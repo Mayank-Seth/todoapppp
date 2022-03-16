@@ -23,6 +23,8 @@
               "src/assets"
             ],
             "styles": [
+              "./node-module/material-design-icons/iconfont/material-icons.css",
+              "./node_module/materialize-css/dist/css/materialze.min/css",
               "src/styles.css"
             ],
             "scripts": []

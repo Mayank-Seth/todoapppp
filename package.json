@@ -11,6 +11,9 @@
     "@angular/platform-browser": "^13.2.0",
     "@angular/platform-browser-dynamic": "^13.2.0",
     "@angular/router": "^13.2.0",
+    "guid-typescript": "^1.0.9",
+    "material-icons": "^1.10.8",
+    "materialize-css": "^1.0.0",
     "rxjs": "^7.5.2",
     "tslib": "^2.3.1",
     "zone.js": "^0.11.4"
